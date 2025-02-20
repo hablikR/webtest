@@ -55,5 +55,14 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ]
+  ],
+  "screenshots": [
+        {
+         "src": "icons/logo512.png",
+          "sizes": "5512x512",
+          "type": "image/png",
+          "form_factor": "wide",
+          "label": "HSZJSE App"
+        }
+    ]
 }
