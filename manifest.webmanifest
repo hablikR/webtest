@@ -57,12 +57,19 @@
     }
   ],
   "screenshots": [
-        {
-         "src": "app_screen.png",
-          "sizes": "320x640",
-          "type": "image/png",
-          "form_factor": "wide",
-          "label": "HSZJSE App"
-        }
-    ]
+    {
+      "src": "app_screen.png",
+      "sizes": "320x640",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "HSZJSE App"
+    },
+    {
+      "src": "app_screen_desktop.png",
+      "sizes": "640x320",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "HSZJSE App"
+    }
+  ]
 }
