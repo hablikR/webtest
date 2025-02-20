@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1740039674533,
+  "timestamp": 1740046361881,
   "index": "/webtest/index.html",
   "assetGroups": [
     {
@@ -49,6 +49,7 @@
         "/webtest/icons/logo152.png",
         "/webtest/icons/logo192.png",
         "/webtest/icons/logo384.png",
+        "/webtest/icons/logo512.png",
         "/webtest/icons/logo72.png",
         "/webtest/icons/logo96.png"
       ],
@@ -73,12 +74,13 @@
     "/webtest/chunk-UFWMNMIW.js": "63802f88cc5e31074783db341ebe4d84e82c66d2",
     "/webtest/chunk-YFHV7OTD.js": "2d0ef5c2557b5c00fc3e2e4e4c3205d04ff81e1a",
     "/webtest/chunk-ZSSD5RUB.js": "2b3192f5924ceaa37012be68ce8b899bff6c581a",
-    "/webtest/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/webtest/favicon.ico": "d8b91c255c8a424160180445ac1952c971fecab7",
     "/webtest/icons/logo128.png": "9b6765026c2a7eaa42cf8f65cc1c510ff7a7a722",
     "/webtest/icons/logo144.png": "127afa7a0663c46513947314db1e621a7f774101",
     "/webtest/icons/logo152.png": "26169556dea39797dac7a49726f26e90f49f97a7",
     "/webtest/icons/logo192.png": "1cea0532cf5db1d63fae8d7e8978fc9439b3f8b5",
     "/webtest/icons/logo384.png": "2b38bc5fcc48dc27bb84210bc424d6fc4dad498e",
+    "/webtest/icons/logo512.png": "046ce9814ce7732515501a93b19cd98d1d9a8951",
     "/webtest/icons/logo72.png": "104048565c19db87d313fe24c0f6aefc9e7d48d1",
     "/webtest/icons/logo96.png": "497fe2da48baebb9b5e6f903dfb0457b6dd3db52",
     "/webtest/index.html": "dd4ca31c68769028ed2acfc5dd59063b55eea0d3",
