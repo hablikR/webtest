@@ -1,0 +1,39 @@
+{
+  "menu": {
+    "home": "Keződoldal",
+    "login": "Bejelentkezés",
+    "data": "Felhasználói adatok",
+    "members": "Tagság",
+    "about": "Rólunk",
+    "contact": "Kapcsolat",
+    "ferrata": "Ferrata",
+    "rocks": "Mászóiskolák"
+  },
+  "login": {
+    "login": "Bejelentkezés",
+    "registration": {
+      "email": {
+        "empty": "Email megadása <strong>kötelező</strong>",
+        "invalid": "Az email cím formátum hibás",
+        "hint": "Kérlek valós email címet adj meg",
+        "example": "Pl. hszjse@gmail.com"
+      },
+      "password": {
+        "empty": "Jelszó megadása <strong>kötelező</strong>",
+        "invalid": "Legalább 8 karakter, kis és nagybetű, szám.",
+        "hint": "Legalább 8 karakter, kis és nagybetű, szám."
+      },
+      "rePassword": {
+        "empty": "Ismételed meg a jelszót.",
+        "invalid": "A két jelszó nem egyezik.",
+        "hint": "A két jelszó nem egyezik."
+      },
+      "button": "Küldés"
+    },
+    "registrationText": "Ha meg nem regisztráltál kérlek kattints az alábbi gombra",
+    "registrationButton": "Regisztráció"
+  },
+  "home": {
+    "introduce": "Hello! \nEz itt a HSZJSE Applikácó ahol a digitális kártyádat is megtalálhatod a jövőben. \n Az oldal megnyitásakor kaphattál egy felajánálst a letöltésre. (Frissítés után ismét meg fog jelenni, ha nem tölötted le). \n Ha letöltöd, onnantól offline is elérhető lesz az alkalmazás ami a telefonodon fog futni a böngésző motorjával de saját ablakban. iPhonon Safari böngészővel kell hozzáadni az kezdőképernyőhöz. Android esetében a legtöbb chromium alapú böngészővel működik.  "
+  }
+}

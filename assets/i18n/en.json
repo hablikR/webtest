@@ -1,0 +1,39 @@
+{
+  "menu": {
+    "home": "Home",
+    "login": "Login",
+    "data": "User Data",
+    "members": "Membership",
+    "about": "About",
+    "contact": "Contact",
+    "ferrata": "Via-Ferrata",
+    "rocks": "Climbing Schools"
+  },
+  "login": {
+    "login": "Login",
+    "registration": {
+      "email": {
+        "empty": "Email is <strong>required</strong>",
+        "invalid": "Please enter a valid email address",
+        "hint": "Please enter a valid email address",
+        "example": "Ex. hszjse@gmail.com"
+      },
+      "password": {
+        "empty": "Password is <strong>required</strong>",
+        "invalid": "Min 8 chars, include a letter & number.",
+        "hint": "Min 8 chars, include a letter & number."
+      },
+      "rePassword": {
+        "empty": "You must repeat the password.",
+        "invalid": "Passwords do not match.",
+        "hint": "Passwords must be match."
+      },
+      "button": "Submit"
+    },
+    "registrationText": "If you don't have registration please click the button below.",
+    "registrationButton": "Registration"
+  },
+  "home": {
+    "introduce": "Welcome here! \n It is an PWA (Progressive Web Application) \n Able to use from your phone or computer. \n This Application could be your Digital HSZJSE ID, if you install this on your phone. "
+  }
+}
