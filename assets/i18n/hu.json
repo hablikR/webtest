@@ -11,6 +11,7 @@
   },
   "login": {
     "login": "Bejelentkezés",
+    "error": "Rossz felhasználónév vagy jelszó",
     "registration": {
       "email": {
         "empty": "Email megadása <strong>kötelező</strong>",
@@ -26,7 +27,7 @@
       "rePassword": {
         "empty": "Ismételed meg a jelszót.",
         "invalid": "A két jelszó nem egyezik.",
-        "hint": "A két jelszó nem egyezik."
+        "hint": "Ismételed meg a jelszót"
       },
       "button": "Küldés"
     },
@@ -35,5 +36,51 @@
   },
   "home": {
     "introduce": "Hello! \nEz itt a HSZJSE Applikácó ahol a digitális kártyádat is megtalálhatod a jövőben. \n Az oldal megnyitásakor kaphattál egy felajánálst a letöltésre. (Frissítés után ismét meg fog jelenni, ha nem tölötted le). \n Ha letöltöd, onnantól offline is elérhető lesz az alkalmazás ami a telefonodon fog futni a böngésző motorjával de saját ablakban. iPhonon Safari böngészővel kell hozzáadni az kezdőképernyőhöz. Android esetében a legtöbb chromium alapú böngészővel működik.  "
+  },
+  "header": {
+    "logout": "Kijelnetkezés"
+  },
+  "userData": {
+    "image": {
+      "upload": "Kép feltöltés"
+    },
+    "field": {
+      "membership": "Tagság",
+      "active": "Aktív",
+      "not_active": "Nem aktív",
+      "name": "Név",
+      "address": "Cím",
+      "contactAddress": "Levelezési cím",
+      "birthDate": "Születési dátum"
+    },
+    "set": {
+      "firstName": {
+        "value": "Keresztnév",
+        "error": "Keresztnév megadása kötelező"
+      },
+      "lastName": {
+        "value": "Vezetéknév",
+        "error": "Vezetéknév megadása kötelező"
+      },
+      "bornDate": {
+        "value": "Add meg a születési dátumot",
+        "error": "Születési dátum megadása kötelező",
+        "format": "ÉÉÉÉ/HH/NN"
+      },
+      "zip": {
+        "value": "Irányítószám",
+        "error": "Irányítószám megadása kötelező"
+      },
+      "city": {
+        "value": "Település",
+        "error": "Település megadása kötelező"
+      },
+      "address": {
+        "value": "Cím",
+        "hint": "Közterület neve, jellege, házszám, (emelet ,ajtó)",
+        "error": "Cím megadása kötelező"
+      },
+      "contactAddress": "Eltérő levelezési cím"
+    }
   }
 }
