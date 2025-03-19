@@ -1,0 +1,1 @@
+import{ka as e}from"./chunk-HUW5QELF.js";var t=class r{getApiUrl(){return"https://hszjseapp.onrender.com"}static \u0275fac=function(o){return new(o||r)};static \u0275prov=e({token:r,factory:r.\u0275fac,providedIn:"root"})};export{t as a};
