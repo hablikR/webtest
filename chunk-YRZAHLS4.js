@@ -1,1 +1,0 @@
-import{ka as r}from"./chunk-HUW5QELF.js";var e=class t{getApiUrl(){return"http://localhost:3000"}static \u0275fac=function(o){return new(o||t)};static \u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})};export{e as a};
