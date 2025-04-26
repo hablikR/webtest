@@ -2,6 +2,8 @@
   "menu": {
     "home": "Keződoldal",
     "login": "Bejelentkezés",
+    "create": "Felhasználó létrehozása",
+    "manage": "Felhasználók kezelése",
     "data": "Felhasználói adatok",
     "members": "Tagság",
     "about": "Rólunk",
@@ -32,7 +34,13 @@
       "button": "Küldés"
     },
     "registrationText": "Ha meg nem regisztráltál kérlek kattints az alábbi gombra",
-    "registrationButton": "Regisztráció"
+    "registrationButton": "Regisztráció",
+    "createUser": "Felhasználó létrehozása",
+    "resetPasswordHint": "Jelszó visszaállítás esetén add meg az e-mail címed és kattints a Jelszó visszaállítása gombra",
+    "resetPassword": "Jelszó visszaállítása",
+    "checkEmail": "Kérlek ellenőrizd az e-mail fiókod.",
+    "regMessage":"Az aktivációs e-mailt kiküldök a megadott címre. Kérjük ellenőrized üzeneteidet.",
+    "back": "Vissza a bejelentkezéshez"
   },
   "home": {
     "introduce": "Hello! \nEz itt a HSZJSE Applikácó ahol a digitális kártyádat is megtalálhatod a jövőben. \n Az oldal megnyitásakor kaphattál egy felajánálst a letöltésre. (Frissítés után ismét meg fog jelenni, ha nem tölötted le). \n Ha letöltöd, onnantól offline is elérhető lesz az alkalmazás ami a telefonodon fog futni a böngésző motorjával de saját ablakban. iPhonon Safari böngészővel kell hozzáadni az kezdőképernyőhöz. Android esetében a legtöbb chromium alapú böngészővel működik.  "
@@ -80,7 +88,15 @@
         "hint": "Közterület neve, jellege, házszám, (emelet ,ajtó)",
         "error": "Cím megadása kötelező"
       },
-      "contactAddress": "Eltérő levelezési cím"
+      "contactAddress": "Eltérő levelezési cím",
+      "email": {
+        "value": "Email cím",
+        "error": "Email cím megadása kötelező"
+      },
+      "cardId": {
+        "value": "Kártyaszám",
+        "error": "Kártyaszám megadása kötelező"
+      }
     }
   }
 }

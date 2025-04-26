@@ -1,0 +1,1 @@
+import{la as e}from"./chunk-MQCPACV7.js";var t=class r{getApiUrl(){return"http://localhost:3000"}static \u0275fac=function(a){return new(a||r)};static \u0275prov=e({token:r,factory:r.\u0275fac,providedIn:"root"})};export{t as a};

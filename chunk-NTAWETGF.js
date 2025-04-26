@@ -1,0 +1,1 @@
+import{c as o,d as e,e as s}from"./chunk-WG7TVEUG.js";var i=e({source:"Login Page",events:{Login:o(),Logout:s(),ResetPassword:o()}}),n=e({source:"API",events:{"Login success":o(),"Reset password success":s(),"Login failed":s(),"Logout success":s()}});export{i as a,n as b};
