@@ -27,23 +27,40 @@
         "hint": "Legalább 8 karakter, kis és nagybetű, szám."
       },
       "rePassword": {
+        "label": "Jelszó",
+        "repeatLabel": "Jelszó újra",
         "empty": "Ismételed meg a jelszót.",
         "invalid": "A két jelszó nem egyezik.",
-        "hint": "Ismételed meg a jelszót"
+        "hint": "Ismételed meg a jelszót",
+        "pageError": "Hiba történt a hívás során. \nKérlek próbáld később, vagy vedd fel velünk a kapcsolatot"
       },
-      "button": "Küldés"
+      "button": "Küldés",
+      "createUser": "Felhasználó létrehozása"
     },
     "registrationText": "Ha meg nem regisztráltál kérlek kattints az alábbi gombra",
     "registrationButton": "Regisztráció",
-    "createUser": "Felhasználó létrehozása",
     "resetPasswordHint": "Jelszó visszaállítás esetén add meg az e-mail címed és kattints a Jelszó visszaállítása gombra",
-    "resetPassword": "Jelszó visszaállítása",
+    "resetPassword": "Elfelejtett jelszó",
     "checkEmail": "Kérlek ellenőrizd az e-mail fiókod.",
-    "regMessage":"Az aktivációs e-mailt kiküldök a megadott címre. Kérjük ellenőrized üzeneteidet.",
+    "regMessage": "Az aktivációs e-mailt kiküldök a megadott címre. Kérjük ellenőrizd az üzeneteidet.",
     "back": "Vissza a bejelentkezéshez"
   },
   "home": {
-    "introduce": "Hello! \nEz itt a HSZJSE Applikácó ahol a digitális kártyádat is megtalálhatod a jövőben. \n Az oldal megnyitásakor kaphattál egy felajánálst a letöltésre. (Frissítés után ismét meg fog jelenni, ha nem tölötted le). \n Ha letöltöd, onnantól offline is elérhető lesz az alkalmazás ami a telefonodon fog futni a böngésző motorjával de saját ablakban. iPhonon Safari böngészővel kell hozzáadni az kezdőképernyőhöz. Android esetében a legtöbb chromium alapú böngészővel működik.  "
+    "introduce": {
+      "welcome": "Üdvözlünk a HSZJSE App-ban!",
+      "part1": "Itt a digitális kártyádat is megtalálhatod a jövőben. Az oldal megnyitásakor kaphatsz egy felajánlást a letöltésre.",
+      "part2": "(Frissítés után ismét meg fog jelenni, ha nem töltötted le.) Ha letöltöd, onnantól offline is elérhető lesz az alkalmazás, ami a telefonodon fog futni a böngésző motorjával, de saját ablakban.",
+      "device": {
+        "iphone": {
+          "title": "iPhone:",
+          "text": "Safari böngészővel kell hozzáadni az kezdőképernyőhöz."
+        },
+        "android": {
+          "title": "Android:",
+          "text": "A legtöbb modern böngészővel működik."
+        }
+      }
+    }
   },
   "header": {
     "logout": "Kijelnetkezés"
